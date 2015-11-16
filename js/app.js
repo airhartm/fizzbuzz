@@ -16,6 +16,6 @@ for (counter = 1; counter<=100; counter++) {
     $( "body" ).append( counter+"<br/>" );
     }
 }   
-    $( "body" ).append( "</p>" );
+$( "body" ).append( "</p>" );
 
 })
