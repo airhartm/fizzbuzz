@@ -26,5 +26,5 @@ As this project reflects techniques from a 10-year-old course, consider the foll
 6. **Improve Documentation**: Expand upon inline comments and code documentation to make the project accessible to new learners, explaining both jQuery and modern JavaScript elements.
 
 ## Acknowledgements
-This project was initially developed for educational purposes during a front-end web development certification course. Special thanks to the course instructors for their foundational guidance in jQuery.
 
+This project was initially developed for educational purposes during a front-end web development certification course hosted by the defunct coding bootcamp site Thinkful. Special thanks to Thinkful's instructors for their foundational guidance in jQuery. 
